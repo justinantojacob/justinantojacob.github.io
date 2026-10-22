@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Queensland. CAD design, FEA and CFD projects, plus offshore field
   experience on oil and gas pipelines
 github_username: justinantojacob
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "aqua"
 search: true
 
 # Build settings
